@@ -1,3 +1,7 @@
 body {
     background-image: url("images/sandpaper.png");
 }
+
+#portImgs {
+    margin-bottom: 2em
+}
